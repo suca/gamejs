@@ -1,8 +1,11 @@
 GAMEJS
 ======
 
-The Game of Frosto and Dojo is a collaborative game where the goal is rescue to their friends that are inside of a cage
-Both must go 
+The Game of Frosto and Dojo is a collaborative game where the goal is rescue to their friends that are inside of a cage.
+
+Dojo y Frosto must be together to pass every phase.
+
+There is a <a href="http://suca.github.io/gamejs">Demo</a> for test the game 
 
 Dependencies JS:
 ===============
