@@ -12,10 +12,11 @@ This is the <a href="http://suca.github.io/gamejs">Demo</a> for test the game.
   - [Phaser JS](www.phaser.io) 
   - Google Chrome
 
-Rake Building Commands
-  rake -T                # Show all tasks available
+#### Rake Building Commands
 
-  rake                  # Build the game and create a 'build' folder
+- rake -T                # Show all tasks available
+
+- rake                  # Build the game and create a 'build' folder
   
 The game is located on the build folder, just go there and enjoy!
 
